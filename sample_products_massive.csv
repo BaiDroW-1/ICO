@@ -1,0 +1,331 @@
+Product,Material,Type,Sustainability Score,Price ($),Carbon Footprint (kg CO2)
+Bamboo Toothbrush,Bamboo,Personal Care,9.1,3.5,0.8
+Recycled Notebook,Recycled Paper,Stationery,8.5,2.5,1.2
+Stainless Steel Bottle,Stainless Steel,Kitchen,9.4,18.0,1.1
+Organic Cotton T-Shirt,Organic Cotton,Clothing,8.2,15.0,2.3
+Reusable Shopping Bag,Recycled Plastic,Accessory,8.7,1.0,0.6
+Eco Soap Bar,Plant-Based,Personal Care,9.0,4.0,0.9
+Biodegradable Phone Case,Cornstarch,Accessory,7.9,12.0,2.5
+Bamboo Cutlery Set,Bamboo,Kitchen,8.8,10.0,0.7
+Hemp Backpack,Hemp,Accessory,8.1,30.0,3.1
+Solar Power Bank,Solar Panel,Electronics,9.0,25.0,2.0
+Glass Food Container,Glass,Kitchen,8.4,6.5,1.4
+LED Light Bulb,LED,Electronics,9.2,2.0,0.5
+Recycled Paper Towels,Recycled Paper,Household,8.3,5.0,1.0
+Eco-Friendly Detergent,Plant-Based,Household,8.6,8.0,1.3
+Natural Shampoo,Plant-Based,Personal Care,8.9,7.0,1.1
+Reusable Coffee Cup,Bamboo,Kitchen,9.3,12.0,0.8
+Eco Yoga Mat,Natural Rubber,Fitness,8.5,35.0,2.8
+Beeswax Wraps,Cotton + Beeswax,Kitchen,8.7,10.0,0.9
+Organic Cotton Socks,Organic Cotton,Clothing,8.0,7.5,1.7
+Recycled Glass Vase,Recycled Glass,Home Decor,8.4,22.0,2.2
+Compost Bin,Recycled Plastic,Kitchen,8.8,15.0,1.5
+Natural Loofah,Plant-Based,Personal Care,9.1,3.0,0.6
+Reusable Straw Set,Stainless Steel,Kitchen,9.3,5.0,0.4
+Eco Dish Sponge,Plant-Based,Household,8.6,2.5,0.7
+Coconut Bowl,Coconut Shell,Kitchen,8.2,6.0,1.0
+Biodegradable Trash Bags,Cornstarch,Household,8.9,10.0,1.2
+Organic Face Cream,Plant-Based,Personal Care,8.7,20.0,2.4
+Eco Deodorant,Plant-Based,Personal Care,8.5,8.0,1.5
+Bamboo Hairbrush,Bamboo,Personal Care,8.6,9.0,1.3
+Sustainable Jeans,Organic Cotton,Clothing,7.8,50.0,3.8
+Eco-Friendly Notebook,Recycled Paper,Stationery,8.4,4.0,0.9
+Reusable Sandwich Bag,Silicone,Kitchen,8.7,5.5,1.1
+Natural Cleaning Spray,Plant-Based,Household,8.8,6.0,1.2
+Wooden Comb,Wood,Personal Care,8.2,4.5,1.0
+Hemp Wallet,Hemp,Accessory,7.9,18.0,2.1
+Organic Pillow,Organic Cotton,Home Decor,8.6,30.0,3.0
+Recycled Wool Blanket,Recycled Wool,Home Decor,8.3,45.0,3.4
+Stainless Steel Lunchbox,Stainless Steel,Kitchen,9.0,22.0,1.0
+Cork Coasters,Cork,Kitchen,8.4,6.0,0.9
+Compostable Plates,Sugarcane Fiber,Kitchen,8.9,5.0,1.1
+Eco-Friendly Markers,Recycled Plastic,Stationery,8.1,3.0,1.0
+Bamboo Tissue Box,Bamboo,Household,8.5,7.0,1.2
+Reusable Water Bottle,Recycled Plastic,Kitchen,8.7,14.0,1.3
+Fair Trade Coffee Beans,Organic,Food,9.0,12.0,2.2
+Hemp Dog Leash,Hemp,Pet Care,8.3,20.0,2.5
+Solar LED Lantern,Solar Panel,Outdoor,9.1,28.0,1.6
+Organic Dish Soap,Plant-Based,Household,8.6,4.0,0.9
+Wool Dryer Balls,Wool,Laundry,8.4,10.0,1.3
+Compostable Mailer,Biodegradable Plastic,Office,8.8,0.9,0.4
+Biodegradable Glitter,Plant-Based,Cosmetics,8.5,6.0,1.0
+Bamboo Razor,Bamboo,Personal Care,8.6,15.0,1.7
+Eco Pen,Recycled Plastic,Stationery,8.0,1.5,0.7
+Sustainable Notebook,Recycled Paper,Stationery,8.7,3.0,1.1
+Bamboo Straws,Bamboo,Kitchen,9.0,5.0,0.5
+Recycled Glass Mug,Recycled Glass,Kitchen,8.5,12.0,1.4
+Organic Lip Balm,Plant-Based,Personal Care,8.8,4.5,0.8
+Hemp Tote Bag,Hemp,Accessory,8.3,18.0,2.0
+Eco-Friendly Pencils,Recycled Wood,Stationery,8.6,1.2,0.3
+Cork Yoga Block,Cork,Fitness,8.7,15.0,1.1
+Reusable Produce Bag,Organic Cotton,Kitchen,8.9,3.0,0.6
+Natural Fiber Sponge,Plant-Based,Household,8.4,2.0,0.5
+Bamboo Keyboard,Bamboo Fiber,Electronics,8.2,40.0,3.0
+Organic Tea Bags,Organic Cotton,Food,8.7,5.0,1.2
+Recycled Rubber Mat,Recycled Rubber,Home Decor,8.1,25.0,2.5
+Eco-Friendly Crayons,Plant-Based,Stationery,8.5,3.5,0.9
+Bamboo Bed Sheets,Bamboo Fiber,Home Decor,8.9,45.0,3.2
+Compostable Cutlery,Sugarcane Fiber,Kitchen,8.8,8.0,1.0
+Organic Baby Onesie,Organic Cotton,Clothing,8.6,14.0,1.8
+Recycled Plastic Bench,Recycled Plastic,Outdoor,8.3,60.0,4.0
+Hemp Face Mask,Hemp,Personal Care,8.7,6.0,1.0
+Solar Phone Charger,Solar Panel,Electronics,9.2,30.0,1.8
+Beeswax Candles,Beeswax,Home Decor,8.4,10.0,1.1
+Eco-Friendly Glue,Plant-Based,Stationery,8.0,3.0,0.7
+Recycled Denim Jacket,Recycled Cotton,Clothing,8.2,55.0,3.5
+Bamboo Ice Cream Scoop,Bamboo,Kitchen,9.0,7.0,0.8
+Organic Sunscreen,Plant-Based,Personal Care,8.9,12.0,1.5
+Compostable Party Cups,Cornstarch,Kitchen,8.7,6.0,1.2
+Hemp Yoga Mat,Hemp,Fitness,8.5,50.0,3.0
+Recycled Tire Sandals,Recycled Rubber,Footwear,8.1,35.0,2.8
+Eco-Friendly Stickers,Recycled Paper,Stationery,8.3,2.0,0.4
+Bamboo Blender,Bamboo Fiber,Kitchen,8.6,22.0,1.9
+Organic Matcha Powder,Organic,Food,9.0,15.0,2.0
+Reusable Makeup Pads,Organic Cotton,Personal Care,8.8,9.0,1.0
+Bamboo Sunglasses,Bamboo,Accessory,8.4,25.0,2.1
+Recycled Aluminum Can Holder,Recycled Aluminum,Kitchen,8.9,5.0,0.7
+Organic Cotton Scarf,Organic Cotton,Clothing,8.3,20.0,1.9
+Eco-Friendly Paint,Plant-Based,Home Decor,8.5,18.0,2.3
+Hemp Shoelaces,Hemp,Footwear,8.1,5.0,0.8
+Solar Garden Lights,Solar Panel,Outdoor,9.3,15.0,1.0
+Bamboo Flooring,Bamboo,Home Decor,8.7,70.0,4.5
+Recycled Cardboard Boxes,Recycled Paper,Office,8.6,2.0,0.6
+Organic Lavender Oil,Plant-Based,Personal Care,8.9,10.0,1.4
+Compostable Dog Poop Bags,Cornstarch,Pet Care,8.8,8.0,1.2
+Reusable Silicone Lids,Silicone,Kitchen,9.0,12.0,0.9
+Natural Mosquito Repellent,Plant-Based,Outdoor,8.4,7.0,1.1
+Bamboo Serving Tray,Bamboo,Kitchen,8.5,18.0,1.3
+Recycled Wool Scarf,Recycled Wool,Clothing,8.2,28.0,2.2
+Eco-Friendly Backpack,Recycled PET,Accessory,8.7,35.0,2.8
+Organic Cotton Underwear,Organic Cotton,Clothing,8.6,12.0,1.5
+Bamboo Bike,Bamboo,Sports,9.1,300.0,5.0
+Recycled Glass Jewelry,Recycled Glass,Accessory,8.3,22.0,1.8
+Eco-Friendly Cat Toy,Hemp,Pet Care,8.5,6.0,0.7
+Solar Charging Backpack,Solar Panel,Accessory,9.2,80.0,2.5
+Bamboo Cutting Board,Bamboo,Kitchen,9.0,15.0,0.9
+Recycled Paper Gift Wrap,Recycled Paper,Stationery,8.4,3.0,0.5
+Organic Herbal Tea,Organic,Food,9.0,8.0,1.0
+Hemp Hat,Hemp,Clothing,8.1,18.0,1.7
+Eco-Friendly Umbrella,Recycled Plastic,Accessory,8.6,20.0,1.9
+Bamboo Desk Organizer,Bamboo,Office,8.7,12.0,1.2
+Recycled Plastic Rugs,Recycled Plastic,Home Decor,8.3,40.0,3.0
+Organic Cotton Dress,Organic Cotton,Clothing,8.5,45.0,2.5
+Compostable Plant Pots,Sugarcane Fiber,Garden,8.9,5.0,0.8
+Reusable K-Cup Filter,Stainless Steel,Kitchen,9.1,10.0,0.6
+Natural Wood Polish,Plant-Based,Home Decor,8.4,7.0,1.0
+Bamboo Toothpaste,Bamboo Charcoal,Personal Care,8.8,5.0,0.7
+Recycled Leather Wallet,Recycled Leather,Accessory,8.2,25.0,2.0
+Eco-Friendly Calendar,Recycled Paper,Office,8.6,6.0,0.9
+Organic Cotton Robe,Organic Cotton,Clothing,8.7,35.0,2.3
+Bamboo Bath Mat,Bamboo,Home Decor,8.5,20.0,1.5
+Recycled Glass Soap Dispenser,Recycled Glass,Household,8.9,12.0,1.1
+Eco-Friendly Party Decor,Recycled Paper,Home Decor,8.3,8.0,1.0
+Hemp Rope,Hemp,Outdoor,8.1,10.0,1.2
+Solar-Powered Fan,Solar Panel,Electronics,9.0,25.0,1.8
+Bamboo Napkins,Bamboo,Kitchen,8.7,6.0,0.7
+Recycled Plastic Fence,Recycled Plastic,Outdoor,8.4,50.0,3.5
+Organic Cotton Blanket,Organic Cotton,Home Decor,8.6,40.0,2.8
+Compostable Straws,Paper,Kitchen,8.9,3.0,0.5
+Reusable Mesh Bags,Cotton,Kitchen,9.0,4.0,0.6
+Natural Dish Brush,Wood + Plant Fiber,Household,8.5,5.0,0.8
+Bamboo Wall Art,Bamboo,Home Decor,8.7,30.0,2.0
+Recycled Metal Bookends,Recycled Metal,Office,8.3,12.0,1.3
+Eco-Friendly Keychain,Recycled Plastic,Accessory,8.1,2.0,0.4
+Organic Cotton Pajamas,Organic Cotton,Clothing,8.8,28.0,2.1
+Bamboo Speaker,Bamboo Fiber,Electronics,8.6,45.0,2.5
+Recycled Glass Countertop,Recycled Glass,Home Decor,8.9,100.0,4.0
+Eco-Friendly Book,Recycled Paper,Stationery,8.4,7.0,1.0
+Hemp Sandals,Hemp,Footwear,8.2,35.0,2.3
+Solar-Powered Watch,Solar Panel,Electronics,9.1,60.0,2.0
+Bamboo Picture Frame,Bamboo,Home Decor,8.7,10.0,1.1
+Recycled Plastic Toys,Recycled Plastic,Toys,8.3,15.0,1.8
+Organic Cotton Swaddle,Organic Cotton,Baby,8.9,12.0,1.2
+Compostable Food Wrap,Beeswax,Kitchen,9.0,8.0,0.7
+Reusable Tea Infuser,Stainless Steel,Kitchen,9.2,6.0,0.5
+Natural Linen Curtains,Linen,Home Decor,8.6,25.0,2.0
+Bamboo Skateboard,Bamboo,Sports,8.8,70.0,3.0
+Recycled Glass Wind Chime,Recycled Glass,Home Decor,8.4,15.0,1.2
+Eco-Friendly Puzzle,Recycled Cardboard,Toys,8.7,10.0,1.0
+Organic Cotton Bandana,Organic Cotton,Clothing,8.5,6.0,0.9
+Bamboo Salad Bowl,Bamboo,Kitchen,9.0,12.0,0.8
+Recycled Plastic Lumber,Recycled Plastic,Outdoor,8.3,30.0,2.5
+Eco-Friendly Phone Stand,Bamboo,Electronics,8.9,8.0,0.9
+Hemp Yoga Straps,Hemp,Fitness,8.6,12.0,1.1
+Solar-Powered Radio,Solar Panel,Electronics,9.1,35.0,1.8
+Bamboo Wine Rack,Bamboo,Home Decor,8.7,25.0,1.5
+Recycled Paper Bags,Recycled Paper,Office,8.4,2.0,0.5
+Organic Cotton Hat,Organic Cotton,Clothing,8.8,15.0,1.3
+Compostable Coffee Pods,Plant-Based,Food,9.0,10.0,1.0
+Reusable Snack Bags,Silicone,Kitchen,9.2,7.0,0.6
+Natural Fiber Rug,Jute,Home Decor,8.5,40.0,2.8
+Bamboo Cheese Board,Bamboo,Kitchen,8.9,18.0,1.1
+Recycled Metal Art,Recycled Metal,Home Decor,8.3,45.0,2.3
+Eco-Friendly Laptop Sleeve,Recycled PET,Electronics,8.7,20.0,1.7
+Organic Cotton Sweater,Organic Cotton,Clothing,8.6,50.0,3.0
+Bamboo Garden Stakes,Bamboo,Garden,8.8,5.0,0.7
+Recycled Plastic Chair,Recycled Plastic,Outdoor,8.4,35.0,2.5
+Eco-Friendly Mouse Pad,Recycled Rubber,Office,8.9,6.0,0.8
+Hemp Napkins,Hemp,Kitchen,8.5,8.0,1.0
+Solar-Powered Fountain,Solar Panel,Garden,9.0,45.0,1.9
+Bamboo Mirror Frame,Bamboo,Home Decor,8.7,22.0,1.4
+Recycled Glass Bottles,Recycled Glass,Kitchen,8.3,10.0,1.1
+Organic Cotton Skirt,Organic Cotton,Clothing,8.8,30.0,2.0
+Compostable Sponges,Plant-Based,Household,9.1,4.0,0.6
+Reusable Water Balloon,Silicone,Toys,9.2,12.0,0.8
+Natural Fiber Basket,Seagrass,Home Decor,8.6,15.0,1.2
+Bamboo Salt Shaker,Bamboo,Kitchen,8.9,7.0,0.7
+Recycled Plastic Shelves,Recycled Plastic,Home Decor,8.4,25.0,2.0
+Eco-Friendly Coasters,Cork,Kitchen,8.7,5.0,0.6
+Organic Cotton Leggings,Organic Cotton,Clothing,8.5,25.0,1.8
+Bamboo Door Mat,Bamboo,Home Decor,8.8,12.0,1.0
+Recycled Glass Tiles,Recycled Glass,Home Decor,8.3,20.0,1.5
+Eco-Friendly Stool,Recycled Wood,Home Decor,8.9,35.0,2.2
+Hemp Placemats,Hemp,Kitchen,8.6,10.0,1.1
+Solar-Powered Bird Bath,Solar Panel,Garden,9.0,40.0,1.7
+Bamboo Bread Box,Bamboo,Kitchen,8.7,18.0,1.2
+Recycled Paper Notebook,Recycled Paper,Stationery,8.4,3.0,0.8
+Organic Cotton Jacket,Organic Cotton,Clothing,8.8,60.0,3.5
+Compostable Toothbrush,Plant-Based,Personal Care,9.1,5.0,0.7
+Reusable Cotton Pads,Organic Cotton,Personal Care,9.2,8.0,0.9
+Natural Fiber Wall Hanging,Macrame,Home Decor,8.6,20.0,1.5
+Bamboo Spoons,Bamboo,Kitchen,8.9,4.0,0.5
+Recycled Plastic Table,Recycled Plastic,Outdoor,8.4,55.0,3.0
+Eco-Friendly Wall Clock,Recycled Wood,Home Decor,8.7,15.0,1.3
+Organic Cotton Hoodie,Organic Cotton,Clothing,8.5,45.0,2.8
+Bamboo Lamp Shade,Bamboo,Home Decor,8.8,22.0,1.6
+Recycled Glass Candle Holder,Recycled Glass,Home Decor,8.3,12.0,1.0
+Eco-Friendly Yoga Block,Cork,Fitness,8.9,18.0,1.2
+Hemp Table Runner,Hemp,Home Decor,8.6,14.0,1.1
+Solar-Powered String Lights,Solar Panel,Outdoor,9.0,20.0,1.3
+Bamboo Egg Cups,Bamboo,Kitchen,8.7,6.0,0.6
+Recycled Paper Bookmarks,Recycled Paper,Stationery,8.4,1.0,0.3
+Organic Cotton Shorts,Organic Cotton,Clothing,8.8,22.0,1.7
+Compostable Food Containers,Sugarcane Fiber,Kitchen,9.1,7.0,0.9
+Reusable Silicone Bag,Silicone,Kitchen,9.2,10.0,0.8
+Natural Fiber Doormat,Coir,Home Decor,8.6,12.0,1.0
+Bamboo Chopsticks,Bamboo,Kitchen,8.9,3.0,0.4
+Recycled Plastic Planter,Recycled Plastic,Garden,8.4,15.0,1.2
+Eco-Friendly Wall Art,Recycled Metal,Home Decor,8.7,25.0,1.8
+Organic Cotton Tank Top,Organic Cotton,Clothing,8.5,18.0,1.4
+Bamboo Serving Spoon,Bamboo,Kitchen,8.8,5.0,0.5
+Recycled Glass Soap Dish,Recycled Glass,Household,8.3,8.0,0.7
+Eco-Friendly Book Cover,Recycled Paper,Stationery,8.9,2.0,0.4
+Hemp Bath Towel,Hemp,Home Decor,8.6,20.0,1.5
+Solar-Powered Bug Zapper,Solar Panel,Outdoor,9.0,30.0,1.6
+Bamboo Tea Strainer,Bamboo,Kitchen,8.7,4.0,0.5
+Recycled Paper Greeting Cards,Recycled Paper,Stationery,8.4,1.5,0.3
+Organic Cotton Sweatpants,Organic Cotton,Clothing,8.8,28.0,1.9
+Compostable Coffee Cup,Paper,Kitchen,9.1,3.0,0.6
+Reusable Glass Straw,Glass,Kitchen,9.2,6.0,0.5
+Natural Fiber Ottoman,Rattan,Home Decor,8.6,35.0,2.2
+Bamboo Whisk,Bamboo,Kitchen,8.9,5.0,0.5
+Recycled Plastic Storage Bin,Recycled Plastic,Home Decor,8.4,18.0,1.4
+Eco-Friendly Desk Organizer,Recycled Wood,Office,8.7,12.0,1.1
+Organic Cotton Romper,Organic Cotton,Clothing,8.5,22.0,1.6
+Bamboo Cake Stand,Bamboo,Kitchen,8.8,15.0,1.0
+Recycled Glass Jar,Recycled Glass,Kitchen,8.3,5.0,0.6
+Eco-Friendly Pencil Case,Recycled Plastic,Stationery,8.9,4.0,0.7
+Hemp Beach Bag,Hemp,Accessory,8.6,25.0,1.8
+Solar-Powered Camping Light,Solar Panel,Outdoor,9.0,35.0,1.7
+Bamboo Butter Knife,Bamboo,Kitchen,8.7,3.0,0.4
+Recycled Paper Calendar,Recycled Paper,Office,8.4,5.0,0.8
+Organic Cotton Dress Shirt,Organic Cotton,Clothing,8.8,40.0,2.5
+Compostable Stirrers,Wood,Kitchen,9.1,2.0,0.3
+Reusable Beeswax Wrap,Beeswax,Kitchen,9.2,8.0,0.7
+Natural Fiber Shade,Jute,Home Decor,8.6,20.0,1.5
+Bamboo Spice Rack,Bamboo,Kitchen,8.9,10.0,0.8
+Recycled Plastic Flower Pot,Recycled Plastic,Garden,8.4,7.0,0.9
+Eco-Friendly Wall Mirror,Recycled Wood,Home Decor,8.7,30.0,1.9
+Organic Cotton Polo Shirt,Organic Cotton,Clothing,8.5,28.0,1.8
+Bamboo Measuring Cups,Bamboo,Kitchen,8.8,8.0,0.7
+Recycled Glass Pitcher,Recycled Glass,Kitchen,8.3,15.0,1.2
+Eco-Friendly Scissors,Recycled Metal,Office,8.9,6.0,0.8
+Hemp Gym Bag,Hemp,Sports,8.6,22.0,1.7
+Solar-Powered Security Light,Solar Panel,Outdoor,9.0,25.0,1.5
+Bamboo Pizza Cutter,Bamboo,Kitchen,8.7,7.0,0.6
+Recycled Paper Stickers,Recycled Paper,Stationery,8.4,1.0,0.2
+Organic Cotton Cardigan,Organic Cotton,Clothing,8.8,35.0,2.2
+Compostable Plates Set,Sugarcane Fiber,Kitchen,9.1,12.0,1.1
+Reusable Silicone Cup,Silicone,Kitchen,9.2,5.0,0.6
+Natural Fiber Placemats,Raffia,Home Decor,8.6,10.0,1.0
+Bamboo Soap Dish,Bamboo,Household,8.9,4.0,0.5
+Recycled Plastic Dog Bowl,Recycled Plastic,Pet Care,8.4,8.0,0.9
+Eco-Friendly Wall Shelf,Recycled Wood,Home Decor,8.7,20.0,1.4
+Organic Cotton Jumpsuit,Organic Cotton,Clothing,8.5,42.0,2.6
+Bamboo Serving Fork,Bamboo,Kitchen,8.8,5.0,0.5
+Recycled Glass Coaster,Recycled Glass,Kitchen,8.3,3.0,0.4
+Eco-Friendly Stapler,Recycled Metal,Office,8.9,7.0,0.7
+Hemp Sun Hat,Hemp,Clothing,8.6,15.0,1.3
+Solar-Powered Pathway Lights,Solar Panel,Outdoor,9.0,18.0,1.2
+Bamboo Spatula,Bamboo,Kitchen,8.7,6.0,0.6
+Recycled Paper Envelopes,Recycled Paper,Office,8.4,2.0,0.4
+Organic Cotton Vest,Organic Cotton,Clothing,8.8,20.0,1.5
+Compostable Cup Sleeve,Cardboard,Kitchen,9.1,1.0,0.2
+Reusable Silicone Straw,Silicone,Kitchen,9.2,3.0,0.3
+Natural Fiber Planter,Sisal,Home Decor,8.6,12.0,1.1
+Bamboo Knife,Bamboo,Kitchen,8.9,7.0,0.6
+Recycled Plastic Toy Box,Recycled Plastic,Toys,8.4,25.0,1.8
+Eco-Friendly Wall Hook,Recycled Wood,Home Decor,8.7,5.0,0.7
+Organic Cotton Blouse,Organic Cotton,Clothing,8.5,30.0,2.0
+Bamboo Ladle,Bamboo,Kitchen,8.8,6.0,0.6
+Recycled Glass Votive,Recycled Glass,Home Decor,8.3,4.0,0.5
+Eco-Friendly Tape Dispenser,Recycled Plastic,Office,8.9,5.0,0.6
+Hemp Backpack Purse,Hemp,Accessory,8.6,28.0,2.0
+Solar-Powered Deck Lights,Solar Panel,Outdoor,9.0,22.0,1.4
+Bamboo Peeler,Bamboo,Kitchen,8.7,4.0,0.5
+Recycled Paper Notepad,Recycled Paper,Office,8.4,2.5,0.5
+Organic Cotton Kimono,Organic Cotton,Clothing,8.8,25.0,1.7
+Compostable Cutlery Set,Wood,Kitchen,9.1,8.0,0.9
+Reusable Silicone Lid,Silicone,Kitchen,9.2,6.0,0.6
+Natural Fiber Basket,Willow,Home Decor,8.6,18.0,1.3
+Bamboo Tongs,Bamboo,Kitchen,8.9,5.0,0.5
+Recycled Plastic Storage Box,Recycled Plastic,Home Decor,8.4,15.0,1.2
+Eco-Friendly Wall Clock,Recycled Wood,Home Decor,8.7,12.0,1.1
+Organic Cotton Tunic,Organic Cotton,Clothing,8.5,35.0,2.3
+Bamboo Grater,Bamboo,Kitchen,8.8,7.0,0.6
+Recycled Glass Paperweight,Recycled Glass,Office,8.3,5.0,0.6
+Eco-Friendly Paper Clips,Recycled Metal,Office,8.9,1.0,0.2
+Hemp Sun Visor,Hemp,Clothing,8.6,10.0,1.0
+Solar-Powered Spot Light,Solar Panel,Outdoor,9.0,20.0,1.3
+Bamboo Skewers,Bamboo,Kitchen,8.7,3.0,0.4
+Recycled Paper Binder,Recycled Paper,Office,8.4,6.0,0.8
+Organic Cotton Sarong,Organic Cotton,Clothing,8.8,18.0,1.4
+Compostable Straw Brush,Plant-Based,Kitchen,9.1,2.0,0.3
+Reusable Silicone Mat,Silicone,Kitchen,9.2,10.0,0.8
+Natural Fiber Rug,Seagrass,Home Decor,8.6,30.0,2.0
+Bamboo Steamer,Bamboo,Kitchen,8.9,12.0,0.9
+Recycled Plastic Garden Bench,Recycled Plastic,Outdoor,8.4,50.0,3.2
+Eco-Friendly Wall Sconce,Recycled Wood,Home Decor,8.7,18.0,1.4
+Organic Cotton Nightgown,Organic Cotton,Clothing,8.5,28.0,1.9
+Bamboo Colander,Bamboo,Kitchen,8.8,9.0,0.7
+Recycled Glass Perfume Bottle,Recycled Glass,Personal Care,8.3,15.0,1.2
+Eco-Friendly Push Pins,Recycled Metal,Office,8.9,2.0,0.3
+Hemp Sun Dress,Hemp,Clothing,8.6,40.0,2.5
+Solar-Powered Pool Light,Solar Panel,Outdoor,9.0,35.0,1.8
+Bamboo Tea Box,Bamboo,Kitchen,8.7,10.0,0.8
+Recycled Paper Clipboard,Recycled Paper,Office,8.4,4.0,0.6
+Organic Cotton Shawl,Organic Cotton,Clothing,8.8,22.0,1.6
+Compostable Coffee Filter,Plant-Based,Kitchen,9.1,3.0,0.5
+Reusable Silicone Bowl Cover,Silicone,Kitchen,9.2,5.0,0.5
+Natural Fiber Ottoman,Rattan,Home Decor,8.6,25.0,1.8
+Bamboo Mortar and Pestle,Bamboo,Kitchen,8.9,15.0,1.1
+Recycled Plastic Garden Edging,Recycled Plastic,Garden,8.4,12.0,1.0
+Eco-Friendly Wall Planter,Recycled Wood,Home Decor,8.7,10.0,1.0
+Organic Cotton Camisole,Organic Cotton,Clothing,8.5,15.0,1.2
+Bamboo Sushi Mat,Bamboo,Kitchen,8.8,8.0,0.7
+Recycled Glass Candle Jar,Recycled Glass,Home Decor,8.3,7.0,0.8
+Eco-Friendly Binder Clips,Recycled Metal,Office,8.9,1.5,0.3
+Hemp Beach Cover-Up,Hemp,Clothing,8.6,20.0,1.5
+Solar-Powered Flood Light,Solar Panel,Outdoor,9.0,30.0,1.7
+Bamboo Tea Infuser,Bamboo,Kitchen,8.7,4.0,0.5
+Recycled Paper Desk Organizer,Recycled Paper,Office,8.4,5.0,0.7
+Organic Cotton Poncho,Organic Cotton,Clothing,8.8,32.0,2.1
+Compostable Drinking Straws,Paper,Kitchen,9.1,2.0,0.3
+Reusable Silicone Food Wrap,Silicone,Kitchen,9.2,7.0,0.6
+Natural Fiber Hammock,Cotton Rope,Outdoor,8.6,45.0,2.5
+Bamboo Rice Paddle,Bamboo,Kitchen,8.9,5.0,0.5
+Recycled Plastic Garden Arch,Recycled Plastic,Garden,8.4,40.0,2.8
+Eco-Friendly Wall Hooks,Recycled Wood,Home Decor,8.7,6.0,0.8
+Organic Cotton Chemise,Organic Cotton,Clothing,8.5,25.0,1.7
+Bamboo Measuring Spoons,Bamboo,Kitchen,8.8,6.0,0.6
+Recycled Glass Bud Vase,Recycled Glass,Home Decor,8.3,8.0,0.7
